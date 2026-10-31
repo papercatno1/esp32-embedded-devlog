@@ -2,9 +2,13 @@
 
 记录一块 **微雪 Waveshare ESP32-S3-LCD-2**（ESP32-S3R8 / 8 MB PSRAM / 16 MB Flash / 2 寸 IPS 240×320）从零开始的嵌入式开发过程。
 
+[![日志](https://img.shields.io/badge/devlog-daily-informational)](2026-10-31/日志.md)
+
 > 这是**日志仓库**，只放"过程记录"（文字 + 照片 + 命令输出 + 决策）。
 > 代码、工程配置、固件另存**项目仓库**，两者独立提交、独立推送。
-> 当前状态：**硬件已确认，开发方案未定**。
+> 当前状态：**硬件已确认、已连通，开发方案未定**。
+
+仓库地址：<https://github.com/papercatno1/esp32-embedded-devlog>
 
 ## 目录
 
